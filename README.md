@@ -29,19 +29,19 @@ Need to install ncbi_blast standalone package, bowtie and cpc in your local envi
 
 3, Usage
 
-Perl  LncRNA_Finder.pl -i <transcript.fasta> -p <protein.fasta> -k <housekeeping.fasta> -s <smallRNA.fasta> -o <output prefix> [-t <# of thread>] [-r <minimum lncRNA length>] [-f <maximum ORF length>] [-m <# of mismatch>] [-e <E-value of alignment>]
+Perl  LncRNA_Finder.pl -i \<transcript.fasta\> -p \<protein.fasta\> -k \<housekeeping.fasta\> -s \<smallRNA.fasta\> -o \<output prefix\> [-t <# of thread>] [-r <minimum lncRNA length>] [-f <maximum ORF length>] [-m <# of mismatch>] [-e <E-value of alignment>]
 
 Options:
 
-   -i <transcript.fasta>
+   -i \<transcript.fasta\>
 
-   -p <protein.fasta>
+   -p \<protein.fasta\>
 
-   -k <housekeeping.fasta>
+   -k \<housekeeping.fasta\>
 
-   -s <smallRNA.fasta>
+   -s \<smallRNA.fasta\>
 
-   -o <output prefix>
+   -o \<output prefix\>
 
    -h help
 
