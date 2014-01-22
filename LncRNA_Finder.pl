@@ -28,9 +28,9 @@
 #              and performs long noncoding RNA filtering via a set of specified parameters.
 #
 # CITATION: LncRNA_Finder can be cited as:
-#          Li L, Eichten SR, Shimizu R, Petsch K, Yeh CT, Wu W, Scanlon MJ, Yu JM, Schnable PS, Timmermans MCP,
-#          Springer NM, and Muehlbauer GJ: Genome-wide discovery and characterization of maize long non-coding 
-#          RNAs (lncRNAs). Genome Biology, 2013, revised.
+#          Li L, Eichten SR, Shimizu R, Petsch K, Yeh CT, Wu W, Chettoor AM, Givan SA, Cole RA, Fowler JE, Evans MMS,
+#          Scanlon MJ, Yu JM, Schnable PS, Timmermans MCP, Springer NM, and Muehlbauer GJ: Genome-wide discovery and
+#          characterization of maize long non-coding RNAs (lncRNAs). Genome Biology, 2013, revised.
 #
 
 use strict;
