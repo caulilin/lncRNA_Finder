@@ -21,7 +21,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 DESCRIPTION: LncRNA_Finder enables the discovery of long noncoding RNAs using native sequence fasta files. This script essentially uses the results from external alignment programs and performs long noncoding RNA filtering via a set of specified parameters.
 
-CITATION: LncRNA_Finder can be cited as: Li L, Eichten SR, Shimizu R, Petsch K, Yeh CT, Wu W, Antony M. Chettoor, Scott A. Givan, Rex A. Cole, John E. Fowler, Matthew M. S. Evans, Scanlon MJ, Yu JM, Schnable PS, Timmermans MCP, Springer NM, and Muehlbauer GJ: Genome-wide discovery and characterization of maize long non-coding RNAs. Genome Biology, 2013, revised.
+CITATION: LncRNA_Finder can be cited as: Li L, Eichten SR, Shimizu R, Petsch K, Yeh CT, Wu W, Chettoor AM,  Givan SA, Cole RA, Fowler JE, Evans MMS, Scanlon MJ, Yu JM, Schnable PS, Timmermans MCP, Springer NM, and Muehlbauer GJ: Genome-wide discovery and characterization of maize long non-coding RNAs. Genome Biology, 2013, revised.
 
 2, Prerequisite of external softwares
 
